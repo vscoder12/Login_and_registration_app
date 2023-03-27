@@ -1,0 +1,19 @@
+.container {
+  width: 60%;
+  height: 50%;
+  background-color: rgb(218, 218, 218);
+  padding: 2rem 1.75rem;
+  margin: 3rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.btnLogout {
+  display: block;
+  margin: auto;
+  width: 100px;
+}
